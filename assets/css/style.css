@@ -203,6 +203,14 @@ hr{
   
 }
 
+/* price list styling */
+#price-list{
+  height: 600px;
+  width: 100%;
+  background: url("../images/prices-backgound.jpg") no-repeat center center;
+
+}
+
 footer{
     height: 150px;
 }
