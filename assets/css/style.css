@@ -11,8 +11,7 @@
   border: 0;
 }
 
-/* Font family and color - sans-serif backup */
-
+/* Default font family and color - sans-serif backup */
 html, body {
 /*   height: 100%;
   width: 100%; */
@@ -20,6 +19,7 @@ html, body {
   color: #777777;
 }
 
+/* Font overide for h2 */
 h2{
   font-family: Oswald, sans-serif;
   text-transform: uppercase;
@@ -27,6 +27,7 @@ h2{
   color: #555555;
 }
 
+/* Header styling for logo and navigation menu */
 #logo{
   float: left;
   font-size: 280%;
@@ -63,6 +64,7 @@ h2{
   border-bottom: 1px solid #777777;
 }
 
+/* Hero image section styling with heading and cover text */
 #hero-image{
   height: 600px;
   width: 100%;
@@ -71,7 +73,6 @@ h2{
   animation-name: hero-zoom;
   animation-duration: 5s;
   animation-fill-mode: forwards;
-  
 }
 
 #hero-outer{
@@ -98,7 +99,6 @@ h2{
   letter-spacing: 4px;
   top: 30px;
   left: 50px;
-/*   right: 150px; */
   position: absolute;
 }
 
@@ -125,8 +125,9 @@ h2{
   position: absolute;
 }
 
+/* Groom ethos section styling with four ethos points around a central circular picture */
 #groom-ethos{
-  height: 600px;
+  height: 500px;
 }
 
 #left-about{
@@ -172,7 +173,7 @@ hr{
   text-align: right;
 }
 
-#welcome{
+#ethos-welcome{
   margin: 20px 0;
   text-align: center;
   font-size: 280%;
@@ -193,24 +194,21 @@ hr{
   background: url("../images/ethos-photo.jpg") no-repeat center center;
   height: 100%;
   border-radius: 50%;
-  
 }
 
-/* area covered styling */
+/* Area covered section styling with heading and map */
 #area-covered{
-  width: 100%;
-  margin: 0 auto;
-  
+  width: 85%;
+  margin: auto;
+ }
+
+ #map-welcome{
+  margin: 20px 0;
+  text-align: center;
+  font-size: 280%;
 }
 
-/* price list styling */
-#price-list{
-  height: 600px;
-  width: 100%;
-  background: url("../images/prices-backgound.jpg") no-repeat center center;
-
-}
-
+/* Footer section styling with social media links */
 footer{
     height: 150px;
 }
@@ -231,19 +229,7 @@ footer{
     color: #777777;
 }
 
-#gallery-photos{
-  clear: both;
-  line-height: 0;
-  column-count: 4;
-  column-gap: 0px;
-}
-
-#gallery-photos img{
-  width: 100%;
-}
-
-/* Form */
-
+/* Contact form styling */
 .contact-section{
   clear: left;
   background: url("../images/contact-background.jpg");
@@ -297,9 +283,27 @@ footer{
   color: #f16c6b;
 }
 
+/* Price list page styling */
+#price-list{
+  height: 600px;
+  width: 100%;
+  background: url("../images/prices-backgound.jpg") no-repeat center center;
+
+}
+
+/* Gallery page styling */
+#gallery-photos{
+  clear: both;
+  line-height: 0;
+  column-count: 4;
+  column-gap: 0px;
+}
+
+#gallery-photos img{
+  width: 100%;
+}
 
 /* Media queries */
-
 @media screen and (max-width: 1200px){
   #groom-ethos{
     width: 65%;
