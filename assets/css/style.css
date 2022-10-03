@@ -420,6 +420,10 @@ footer{
   #gallery-photos{
     column-count: 3;
   }
+
+  #area-covered{
+    overflow-y: hidden;
+    overflow-x: auto;
 }
 
 @media screen and (max-width: 800px){
