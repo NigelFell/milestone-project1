@@ -121,29 +121,29 @@ h2{
   background-color: rgba(241, 107, 109, .7);
   
   bottom: 30px;
-  right: 150px;
+  right: 170px;
   position: absolute;
 }
 
 /* Groom ethos section styling with four ethos points around a central circular picture */
 #groom-ethos{
-  height: 500px;
+  height: 450px;
 }
 
 #left-about{
   padding-top: 30px;
-  width: 33%;
+  width: 35%;
   float: left;
 }
 
 #right-about{
   padding-top: 30px;
-  width: 33%;
+  width: 35%;
   float: right;
 }
 
 #center-about{
-  width: 33%;
+  width: 30%;
   margin: 0 auto;
 }
 
@@ -182,7 +182,7 @@ hr{
 #circle-container{
   width: 300px;
   height: 300px;
-  padding: 30px;
+  padding: 20px;
   border-style: solid;
   border-color: #cccccc;
   border-width: 1px;
@@ -289,7 +289,7 @@ footer{
   background: url("../images/prices-background.jpg");
   background-size: cover;
   background-position: center;
-  height: 600px;
+  height: 700px;
 }
 
 #prices-info{
