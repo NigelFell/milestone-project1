@@ -267,6 +267,11 @@ footer{
   border-color: #f16c6b;
 }
 
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+}
+
 .contact-button{
   margin-top: 20px;
   border-radius: 2px;
