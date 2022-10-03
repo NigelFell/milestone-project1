@@ -284,11 +284,57 @@ footer{
 }
 
 /* Price list page styling */
-#price-list{
+#prices-section{
+  clear: left;
+  background: url("../images/prices-background.jpg");
+  background-size: cover;
+  background-position: center;
   height: 600px;
-  width: 100%;
-  background: url("../images/prices-backgound.jpg") no-repeat center center;
+}
 
+#prices-info{
+  margin-top: 100px;
+  color: #fff;
+  background-color: rgba(60, 60, 60, 0.6);
+  max-width: 500px;
+  position: absolute;
+  left: 10%;
+  padding: 30px;
+}
+
+#prices-info h2{
+  color: #fafafa;
+  margin-bottom: 20px;
+}
+
+#prices-info table{
+  border: 2px solid;
+  width: 75%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+#prices-info tr:nth-child(even){
+  background-color: rgba(70, 70, 70, 0.6);
+}
+
+#prices-info tr:hover{
+  background-color: #f16c6b;
+}
+
+#prices-info th{
+  border: 2px solid;
+  height: 40px;
+}
+
+#prices-info td{
+  border: 1px solid;
+  text-align: center;
+  height: 30px;
+}
+
+#prices-size-key{
+  margin-bottom: 10px;
 }
 
 /* Gallery page styling */
