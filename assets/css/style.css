@@ -250,7 +250,12 @@ footer{
 
 .contact-form h2{
     color: #fafafa;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.contact-form p{
+  font-size: 130%;
+  margin-bottom: 20px;
 }
 
 .text-input{
