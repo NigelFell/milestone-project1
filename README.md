@@ -1,6 +1,6 @@
 <h1 align="center">Pampered Pooches Mobile Dog Grooming Website</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://nigelfell.github.io/milestone-project1/)
 
 This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
@@ -12,21 +12,22 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of dog grooming and mobile business.
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of regular dog grooming and a friendly mobile dog grooming service.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the website to find content and contact information.
-        3. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
-        4. As a First Time Visitor, I want to find what services are included with a price list for different options and see the area covered by the mobile service.
+        3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
+        4. As a First Time Visitor, I want to be able to enter my contact information to initiate communication with the website owner.
+        5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        6. As a First Time Visitor, I want to find what services are included with a price list for different options and see the area covered by the mobile service.
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find the best way to get in contact with the business with any questions I may have or to book another appointment.
-        I want to write a review of the mobile service.
-        2. As a Returning Visitor, 
+        1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
+        2. As a Returning Visitor, I want to write a review of the mobile service.
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
+        1. As a Frequent User, I want to check to see pictures of my dog being groomed in the gallery.
+        2. As a Frequent User, I want to check to see if there are any new social media posts.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 -   ### Design
@@ -62,35 +63,37 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 1. [W3 Schools:](https://www.w3schools.com/)
     - W3 Schools was used as a HTML and CSS reference.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+2. [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainwebappdevelopment)
+    - The "Love Running" project was used as the basis of the Pampered Pooches website
+3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
+    - Images for the website were downloaded from Pexels
+4. [Tiny JPG:](https://tinyjpg.com/)
+    - Tiny JPG was used to minimise the size of the image files used in the gallery page
+5. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Oswald' and 'Lato' fonts into the style.css file which is used on all pages throughout the project.
+6. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+7. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+8. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+9. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+10. [Material Design:](https://material.io/resources/color/)
+    - Material Design was used to create and test the colour scheme for the website
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/)
 
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of regular dog grooming and a friendly mobile dog grooming service.
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
         2. The main points are made immediately with the hero image
