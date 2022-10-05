@@ -431,6 +431,7 @@ textarea {
     column-count: 3;
   }
 
+  /* Allow area covered to be scrollable */
   #area-covered{
     overflow-y: hidden;
     overflow-x: auto;
