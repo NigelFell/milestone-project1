@@ -40,11 +40,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
-
-    -   Mobile Wireframe - [View](https://github.com/)
-
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/73d9cc9c6b2bb872312ef4a8ef89defb871cbf04/assets/images/pampered-pooches-balsamiq-wireframes.pdf)
 
 ## Features
 
