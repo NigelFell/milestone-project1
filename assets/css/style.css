@@ -359,8 +359,7 @@ textarea {
   width: 100%;
 }
 
-/* Style the container with a rounded border, grey background and some padding and margin */
-.review-container {
+.review-container{
   border: 2px solid #ccc;
   background-color: #eee;
   border-radius: 5px;
@@ -368,22 +367,20 @@ textarea {
   margin: 16px 0;
 }
 
-/* Clear floats after containers */
-.review-container::after {
+.review-container::after{
+  /* Clear floats after containers */
   content: "";
   clear: both;
   display: table;
 }
 
-/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
-.review-container img {
+.review-container img{
   float: left;
   margin-right: 20px;
   border-radius: 50%;
 }
 
-/* Increase the font-size of a span element */
-.review-container span {
+.review-container span{
   font-size: 20px;
   margin-right: 15px;
 }
