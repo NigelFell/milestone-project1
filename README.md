@@ -63,19 +63,21 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
     - The "Love Running" project was used as the basis of the Pampered Pooches website
 3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
     - Images for the website were downloaded from Pexels
-4. [Tiny JPG:](https://tinyjpg.com/)
+4. [Paint]
+    - Paint for Windows was used to crop and resize the images were required
+5. [Tiny JPG:](https://tinyjpg.com/)
     - Tiny JPG was used to minimise the size of the image files used in the gallery page
-5. [Google Fonts:](https://fonts.google.com/)
+6. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Oswald' and 'Lato' fonts into the style.css file which is used on all pages throughout the project.
-6. [Font Awesome:](https://fontawesome.com/)
+7. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-7. [Git](https://git-scm.com/)
+8. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-8. [GitHub:](https://github.com/)
+9. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-9. [Balsamiq:](https://balsamiq.com/)
+10. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
-10. [Material Design:](https://material.io/resources/color/)
+11. [Material Design:](https://material.io/resources/color/)
     - Material Design was used to create and test the colour scheme for the website
 
 ## Testing
