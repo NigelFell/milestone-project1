@@ -467,10 +467,10 @@ textarea {
 
 @media screen and (max-width: 800px){
   #hero-heading{
-    font-size: 130%;
+    font-size: 120%;
     letter-spacing: 1px;
     top: 30px;
-    left: 10px;
+    left: 4px;
   }
 
   #gallery-photos{
