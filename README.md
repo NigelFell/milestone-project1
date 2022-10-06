@@ -84,7 +84,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/50ed7e8311e82dfa56e2917e220b0c7fc4934146/assets/images/html-validation-results.pdf)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/)
 
 ### Testing User Stories from User Experience (UX) Section
