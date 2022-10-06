@@ -466,6 +466,13 @@ textarea {
 }
 
 @media screen and (max-width: 800px){
+  #hero-heading{
+    font-size: 150%;
+    letter-spacing: 2px;
+    top: 30px;
+    left: 10px;
+  }
+
   #gallery-photos{
     column-count: 2;
   }
