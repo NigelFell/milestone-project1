@@ -468,4 +468,14 @@ textarea {
   #gallery-photos{
     column-count: 2;
   }
+
+  .review-container {
+    text-align: center;
+  }
+
+  .review-container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
 }
