@@ -32,11 +32,11 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   To create a modern look and feel against the background images greys and whites were used.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   Lato is the main font used on the site with Oswald used for the headings (h2). Sans Serif is the fallback font in case for any reason the font isn't being imported into the site correctly. Lato and Oswald fonts work well together. They are professional and readable fonts that still have charm and character.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Imagery is important. The background images are designed to be striking and catch the user's attention.
 
 *   ### Wireframes
 
