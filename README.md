@@ -93,13 +93,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of regular dog grooming and a friendly mobile dog grooming service.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with some cover text, then as the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with some cover text. Then as the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
         2. The main points are made immediately with the hero image and ethos section.
         3. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page. Or they can scroll down the page to view the ethos section, area covered map and footer with social media links that they can access.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the website to find content and contact information.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
         2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
         3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
 
