@@ -13,8 +13,6 @@
 
 /* Default font family and color - sans-serif backup */
 html, body {
-/*   height: 100%;
-  width: 100%; */
   font-family: Lato, sans-serif;
   color: #777777;
 }
@@ -46,7 +44,6 @@ h2{
 }
 
 #menu li{
-/*   float: right; */
   float: left;
   margin-right: 30px;
 }
@@ -118,10 +115,11 @@ h2{
   padding-top: 40px;
   padding-left: 10px;
 
-  background-color: rgba(241, 107, 109, .7);
+  /* background-color: rgba(241, 107, 109, .7); */
+  background-color: rgba(60, 60, 60, 0.6);
   
   bottom: 30px;
-  right: 170px;
+  right: 130px;
   position: absolute;
 }
 
