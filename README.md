@@ -4,7 +4,7 @@
 
 This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="https://github.com/NigelFell/milestone-project1/blob/5b2a25c62fea25a5c63b84f72381a12b16e8fe20/assets/images/responsive-screen-shot.jpg"></h2>
 
 ## User Experience (UX)
 
