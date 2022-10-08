@@ -93,28 +93,36 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of regular dog grooming and a friendly mobile dog grooming service.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with some cover text. Then as the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
-        2. The main points are made immediately with the hero image and ethos section.
-        3. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page. Or they can scroll down the page to view the ethos section, area covered map and footer with social media links that they can access.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with cover text describing the image.
+        2. As the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
+        3. The main points are made immediately with the hero image and ethos section.
+        4. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page to view Prices or Gallery of photos and testimonials. They can also scroll down the home page to view the ethos section, area covered map and on any page view a footer with social media links for the site that they can access.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the website to find content and contact information.
 
         1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
-        2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
+        2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped when they get to the bottom of the page.
         3. On the Contact Page, after a form response is submitted successfully a new window is opened showing the data entered.
     
     3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
 
         1. On the home page a user can scroll down to a map showing the area covered by the mobile service within a circle.
 
-    4. As a First Time Visitor, I want to be able to enter telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
+    4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
-        1. The user can easily navigate to the contact page and telephone or enter their contact information and click the Contact Us submit button.
+        1. The user can easily navigate to the Contact page and telephone or enter their contact information and click the Contact Us submit button.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+        2. On successful submission a page will open in a new window to show their details have been submitted.
+
+    5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+
+        1. The user can easily navigate to the Gallery page and view photos and testimonials of existing customers dog grooming experience.
+
+        2. The user can scroll down to the footer of any page on the site and click on a social media link of their choice. The social media site will open in a new window.
+
+    6. As a First Time Visitor, I want to find what services are included with a price list for different options and types of dog.
+
+        1. The user can easily navigate to the Prices page and clearly view a table of prices for different types of dog and grooming options.
 
 -   #### Returning Visitor Goals
 
