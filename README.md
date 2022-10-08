@@ -64,7 +64,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
     - Images for the website were downloaded from Pexels
 4. [Paint]
-    - Paint for Windows was used to crop and resize the images were required
+    - Paint for Windows was used to crop and resize the images where required
 5. [Tiny JPG:](https://tinyjpg.com/)
     - Tiny JPG was used to minimise the size of the image files used in the gallery page
 6. [Google Fonts:](https://fonts.google.com/)
@@ -93,9 +93,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the benefits of regular dog grooming and a friendly mobile dog grooming service.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with some cover text, then as the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
+        2. The main points are made immediately with the hero image and ethos section.
+        3. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page. Or they can scroll down the page to view the ethos section, area covered map and footer with social media links that they can access.
 
     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
 
