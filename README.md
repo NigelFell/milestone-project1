@@ -102,6 +102,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
         2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
         3. On the Contact Page, after a form response is submitted successfully a new window is opened showing the data entered.
+    
+    3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
+
+        1. On the home page a user can scroll down to a map showing the area covered by the mobile service within a circle.
+
+    4. As a First Time Visitor, I want to be able to enter telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
+
+        1. The user can easily navigate to the contact page and telephone or enter their contact information and click the Contact Us submit button.
 
     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
         1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
