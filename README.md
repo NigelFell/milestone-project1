@@ -42,6 +42,10 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
     -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/73d9cc9c6b2bb872312ef4a8ef89defb871cbf04/assets/images/pampered-pooches-balsamiq-wireframes.pdf)
 
+    ### Initial Coding
+    -   The site was originally coded in Replit alongside the "Love Running" project and therefore takes a lot of the features and source code from this resource.
+    -   Once github and gitpod were introduced the source code and images for the site where migrated here via the upload command. Then regular git add and commits were used for source control.
+
 ## Features
 
 -   Responsive on all device sizes
@@ -58,7 +62,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 ### Frameworks, Libraries & Programs Used
 
 1. [W3 Schools:](https://www.w3schools.com/)
-    - W3 Schools was used as a HTML and CSS reference.
+    - W3 Schools was used as a HTML and CSS reference
 2. [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainwebappdevelopment)
     - The "Love Running" project was used as the basis of the Pampered Pooches website
 3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
@@ -103,38 +107,38 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
         2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped when they get to the bottom of the page.
         3. On the Contact Page, after a form response is submitted successfully a new window is opened showing the data entered.
+        4. The input boxes on the contact page are checked as valid entries where required and the user prompted if there is a problem.
+        5. Checking and verifying a postcode is within the mobile service area has been left to a future release of the site.
     
     3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
 
         1. On the home page a user can scroll down to a map showing the area covered by the mobile service within a circle.
-
         2. Verfiying a postcode is within the mobile service area has been left to a future release of the site.
 
     4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
         1. The user can easily navigate to the Contact page and telephone or enter their contact information and click the Contact Us submit button.
-
         2. On successful submission a page will open in a new window to show their details have been submitted.
 
     5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
         1. The user can easily navigate to the Gallery page and view photos and testimonials of existing customers dog grooming experience.
-
         2. The user can scroll down to the footer of any page on the site and click on a social media link of their choice. The social media site will open in a new window.
 
     6. As a First Time Visitor, I want to find what services are included with a price list for different options and types of dog.
 
         1. The user can easily navigate to the Prices page and clearly view a table of prices for different types of dog and grooming options.
+        2. To keep the table compact for responsiveness on mobile devices a key is shown below the table indicating dog types by size and grooming options.
 
 -   #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
 
-        1. The user can easily navigate to the Contact page use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
+        1. The navigation bar clearly highlights the "Contact" page.
+        2. The user can easily navigate to the Contact page use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
+        3. Booking appointments online has been left to a future release of the site.
 
-        2. Booking appointments online has been left to a future release of the site.
-
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. As a Returning Visitor, I want to write a review of the mobile service.
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
         2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
