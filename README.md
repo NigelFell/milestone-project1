@@ -108,6 +108,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. On the home page a user can scroll down to a map showing the area covered by the mobile service within a circle.
 
+        2. Verfiying a postcode is within the mobile service area has been left to a future release of the site.
+
     4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
         1. The user can easily navigate to the Contact page and telephone or enter their contact information and click the Contact Us submit button.
@@ -126,10 +128,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        1. The user can easily navigate to the Contact page use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
+
+        2. Booking appointments online has been left to a future release of the site.
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
