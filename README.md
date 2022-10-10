@@ -109,7 +109,11 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/css-validation-results.jpg)
 
 ### Responsiveness
--   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar. [View iPhone 5 Example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices.jpg)
+-   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar.
+
+    - [View mobile example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices-iphone5.jpg)
+    - [View tablet example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices-tablet.jpg)
+    - [View desktop example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices-desktop.jpg)
 
 
 
