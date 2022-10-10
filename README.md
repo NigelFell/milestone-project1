@@ -38,21 +38,23 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
         -   Lato is the main font used on the site with Oswald used for the headings (h2). Sans Serif is the fallback font in case for any reason the font isn't being imported into the site correctly. Lato and Oswald fonts work well together. They are professional and readable fonts that still have charm and character.
     -   #### Imagery
         -   Imagery is important. The background images are designed to be striking and catch the user's attention.
+    
+    [View a screenshot of the visual design elements](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/user-experience-design.jpg)
 
 *   ### Wireframes
 
-    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/pampered-pooches-balsamiq-wireframes.pdf)
+    -   Wireframes - [View the wireframes](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/pampered-pooches-balsamiq-wireframes.pdf)
 
     ### Initial Coding
     -   The site was originally coded in Replit alongside the "Love Running" project and therefore takes a lot of the features and source code from this resource.
     -   Once github and gitpod were introduced the source code and images for the site were migrated here via the upload command. Then regular git add and commits were used for source control.
 
     ### Responsiveness
-    -   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar [iPhone 5 Example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices.jpg)
+    -   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar. [View iPhone 5 Example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices.jpg)
 
     -   Each of the pages were also checked on ui.dev/amiresponsive, see the screenshots below:
 
-        - [View a screenshot of the responsive "Index" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-index.jpg)
+        - [View a screenshot of the responsive "Home" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-index.jpg)
         - [View a screenshot of the responsive "Contact" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-contact.jpg)
         - [View a screenshot of the responsive "Prices" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-prices.jpg)
         - [View a screenshot of the responsive "Gallery" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-gallery.jpg)
