@@ -67,23 +67,23 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
     - The "Love Running" project was used as the basis of the Pampered Pooches website
 3. [Replit](https://replit.com/)
     - Replit was used to initially code the website alongside the "Love Running" project
-3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
+4. [Pexels](https://www.pexels.com/search/dog%20grooming/)
     - Images for the website were downloaded from Pexels
-4. [Paint]
+5. [Paint]
     - Paint for Windows was used to crop and resize the images where required
-5. [Tiny JPG:](https://tinyjpg.com/)
+6. [Tiny JPG:](https://tinyjpg.com/)
     - Tiny JPG was used to minimise the size of the image files used in the gallery page
-6. [Google Fonts:](https://fonts.google.com/)
+7. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Oswald' and 'Lato' fonts into the style.css file which is used on all pages throughout the project.
-7. [Font Awesome:](https://fontawesome.com/)
+8. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-8. [Git](https://git-scm.com/)
+9. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-9. [GitHub:](https://github.com/)
+10. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-10. [Balsamiq:](https://balsamiq.com/)
+11. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
-11. [Material Design:](https://material.io/resources/color/)
+12. [Material Design:](https://material.io/resources/color/)
     - Material Design was used to create and test the colour scheme for the website
 
 ## Testing
@@ -102,14 +102,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a large animated hero image with cover text describing the image.
         2. As the user scrolls down there's an ethos section communicating the benefits of regular dog grooming, a map indicating the area covered by the mobile service and finally a footer with social media links.
         3. The main points are made immediately with the hero image and ethos section.
-        4. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page to view Prices or Gallery of photos and testimonials. They can also scroll down the home page to view the ethos section, area covered map and on any page view a footer with social media links for the site that they can access.
+        4. The user has several choices to learn more about the organisation. They can click on a navigation bar menu option to access a page to "Contact" the business, view "Prices" or a "Gallery" of photos and testimonials. They can also scroll down the home page to view the ethos section, area covered map and on any page view a footer with social media links for the site that they can access.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the website to find content and contact information.
 
         1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
         2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped when they get to the bottom of the page.
-        3. On the Contact Page, after a form response is submitted successfully a new window is opened showing the data entered.
-        4. The input boxes on the contact page are checked as valid entries where required and the user prompted if there is a problem.
+        3. On the "Contact" page, after a form response is submitted successfully a new window is opened showing the data entered. This will allow the user can easily get back to the website.
+        4. The input boxes on the "Contact" page are checked for valid entries where required and the user prompted if there is a problem.
         5. Checking and verifying a postcode is within the mobile service area has been left to a future release of the site.
     
     3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
@@ -119,17 +119,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
-        1. The user can easily navigate to the Contact page and telephone or enter their contact information and click the Contact Us submit button.
-        2. On successful submission a page will open in a new window to show their details have been submitted.
+        1. The user can easily navigate to the "Contact" page and telephone or enter their contact information and click the Contact Us submit button.
+        2. On successful submission a page will open in a new window to show their details have been submitted. This will allow the user can easily get back to the website.
 
     5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-        1. The user can easily navigate to the Gallery page and view photos and testimonials of existing customers dog grooming experience.
-        2. The user can scroll down to the footer of any page on the site and click on a social media link of their choice. The social media site will open in a new window.
+        1. The user can easily navigate to the "Gallery" page and view photos and testimonials of existing customers dog grooming experience.
+        2. The user can scroll down to the footer of any page on the site and click on a social media link of their choice. The selected social media site will open in a new window to ensure the user can easily get back to the website.
 
     6. As a First Time Visitor, I want to find what services are included with a price list for different options and types of dog.
 
-        1. The user can easily navigate to the Prices page and clearly view a table of prices for different types of dog and grooming options.
+        1. The user can easily navigate to the "Prices" page and clearly view a table of prices for different types of dog and grooming options.
         2. To keep the table compact for responsiveness on mobile devices a key is shown below the table indicating dog types by size and grooming options.
 
 -   #### Returning Visitor Goals
@@ -137,21 +137,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
 
         1. The navigation bar clearly highlights the "Contact" page.
-        2. The user can easily navigate to the Contact page use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
+        2. The user can easily navigate to the Contact page, use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
         3. Booking appointments online has been left to a future release of the site.
 
     2. As a Returning Visitor, I want to write a review of the mobile service.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+        1. The navigation bar clearly highlights the "Contact" Page.
+        2. Here they can fill out the form on the page and leave a review of the service in a textarea input box labelled "Comments/Feedback".
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+    3. As a Returning Visitor, I want to find community links.
+        1. The footer on every page contains links to the organisations social media sites. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
 -   #### Frequent User Goals
 
