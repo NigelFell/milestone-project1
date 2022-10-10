@@ -4,7 +4,7 @@
 
 This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-[View a screenshot of the responsive website](https://github.com/NigelFell/milestone-project1/blob/5b2a25c62fea25a5c63b84f72381a12b16e8fe20/assets/docs/responsive-screen-shot.jpg)
+[View a screenshot of the responsive website](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-screen-shot.jpg)
 
 ## User Experience (UX)
 
@@ -41,7 +41,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 *   ### Wireframes
 
-    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/73d9cc9c6b2bb872312ef4a8ef89defb871cbf04/assets/docs/pampered-pooches-balsamiq-wireframes.pdf)
+    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/pampered-pooches-balsamiq-wireframes.pdf)
 
     ### Initial Coding
     -   The site was originally coded in Replit alongside the "Love Running" project and therefore takes a lot of the features and source code from this resource.
@@ -93,8 +93,8 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/50ed7e8311e82dfa56e2917e220b0c7fc4934146/assets/docs/html-validation-results.pdf)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/52656794af5867192850980f8f8133b7041e46c7/assets/docs/css-validation-results.jpg)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/html-validation-results.pdf)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/css-validation-results.jpg)
 
 ### Testing User Stories from User Experience (UX) Section
 
