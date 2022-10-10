@@ -233,7 +233,7 @@ footer{
   background: url("../images/contact-background.jpg");
   background-size: cover;
   background-position: center;
-  height: 1000px;
+  height: 1200px;
 }
 
 .contact-form{
@@ -273,6 +273,12 @@ footer{
 textarea {
   font-family: inherit;
   font-size: inherit;
+}
+
+.checkbox{
+  width: 17px;
+  height: 17px;
+  margin-right: 5px;
 }
 
 .contact-button{
