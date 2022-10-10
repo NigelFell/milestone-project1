@@ -50,8 +50,6 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
     -   Once github and gitpod were introduced the source code and images for the site were migrated here via the upload command. Then regular git add and commits were used for source control.
 
     ### Responsiveness
-    -   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar. [View iPhone 5 Example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices.jpg)
-
     -   Each of the pages were also checked on ui.dev/amiresponsive, see the screenshots below:
 
         - [View a screenshot of the responsive "Home" page](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/responsive-index.jpg)
@@ -103,10 +101,17 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+### HTML and CSS Validation
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/html-validation-results.pdf)
+    The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-    [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/html-validation-results.pdf)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/css-validation-results.jpg)
+
+### Responsiveness
+-   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar. [View iPhone 5 Example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices.jpg)
+
+
 
 ### Testing User Stories from User Experience (UX) Section
 
