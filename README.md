@@ -4,11 +4,11 @@
 
 This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers.
 
-<h2 align="center"><img src="https://github.com/NigelFell/milestone-project1/blob/5b2a25c62fea25a5c63b84f72381a12b16e8fe20/assets/images/responsive-screen-shot.jpg"></h2>
+[View a screenshot of the responsive website](https://github.com/NigelFell/milestone-project1/blob/5b2a25c62fea25a5c63b84f72381a12b16e8fe20/assets/docs/responsive-screen-shot.jpg)
 
 ## User Experience (UX)
 
--   ### User stories
+-    ### User stories
 
     -   #### First Time Visitor Goals
 
@@ -18,10 +18,10 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
         4. As a First Time Visitor, I want to be able to enter my contact information to initiate communication with the website owner.
         5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
         6. As a First Time Visitor, I want to find what services are included with a price list for different options and see the area covered by the mobile service.
-
+        
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
+        1. As a Returning Visitor, I want to contact the business with any questions I may have or to book another appointment.
         2. As a Returning Visitor, I want to write a review of the mobile service.
         3. As a Returning Visitor, I want to find community links.
 
@@ -33,7 +33,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 -   ### Design
     -   #### Colour Scheme
-        -   To create a modern look and feel against the background images greys and whites were used.
+        -   To create a modern look and feel against the background images grays and whites were used.
     -   #### Typography
         -   Lato is the main font used on the site with Oswald used for the headings (h2). Sans Serif is the fallback font in case for any reason the font isn't being imported into the site correctly. Lato and Oswald fonts work well together. They are professional and readable fonts that still have charm and character.
     -   #### Imagery
@@ -41,11 +41,11 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 *   ### Wireframes
 
-    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/73d9cc9c6b2bb872312ef4a8ef89defb871cbf04/assets/images/pampered-pooches-balsamiq-wireframes.pdf)
+    -   Wireframes - [View](https://github.com/NigelFell/milestone-project1/blob/73d9cc9c6b2bb872312ef4a8ef89defb871cbf04/assets/docs/pampered-pooches-balsamiq-wireframes.pdf)
 
     ### Initial Coding
     -   The site was originally coded in Replit alongside the "Love Running" project and therefore takes a lot of the features and source code from this resource.
-    -   Once github and gitpod were introduced the source code and images for the site where migrated here via the upload command. Then regular git add and commits were used for source control.
+    -   Once github and gitpod were introduced the source code and images for the site were migrated here via the upload command. Then regular git add and commits were used for source control.
 
 ## Features
 
@@ -81,7 +81,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 9. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 10. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
+    - GitHub is used to store the project code after being pushed from Git.
 11. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 12. [Material Design:](https://material.io/resources/color/)
@@ -93,8 +93,8 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/50ed7e8311e82dfa56e2917e220b0c7fc4934146/assets/images/html-validation-results.pdf)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/52656794af5867192850980f8f8133b7041e46c7/assets/images/css-validation-results.jpg)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/50ed7e8311e82dfa56e2917e220b0c7fc4934146/assets/docs/html-validation-results.pdf)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/52656794af5867192850980f8f8133b7041e46c7/assets/docs/css-validation-results.jpg)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -118,7 +118,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
 
         1. On the home page a user can scroll down to a map showing the area covered by the mobile service within a circle.
-        2. Verfiying a postcode is within the mobile service area has been left to a future release of the site.
+        2. Verifying a postcode is within the mobile service area has been left to a future release of the site.
 
     4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
@@ -137,7 +137,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to contact with the business with any questions I may have or to book another appointment.
+    1. As a Returning Visitor, I want to contact the business with any questions I may have or to book another appointment.
 
         1. The navigation bar clearly highlights the "Contact" page.
         2. The user can easily navigate to the Contact page, use the telephone number provided or use the contact form to enter their details and a question or appointment query in a textarea input box.
@@ -146,11 +146,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a Returning Visitor, I want to write a review of the mobile service.
 
         1. The navigation bar clearly highlights the "Contact" Page.
-        2. Here they can fill out the form on the page and leave a review of the service in a textarea input box labelled "Comments/Feedback".
+        2. Here they can fill out the form on the page and leave a review of the service in a textarea input box labeled "Comments/Feedback".
 
     3. As a Returning Visitor, I want to find community links.
 
-        1. The footer on every page contains links to the organisations social media sites. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        1. The footer on every page contains links to the organisations social media sites. Whichever link they click, it will be opened up in a new tab to ensure the user can easily get back to the website.
 
 -   #### Frequent User Goals
 
@@ -164,7 +164,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     3. As a Frequent User, I want to sign up to get email updates so that I am emailed about any changes to the dog grooming service.
 
-        1. The user navigate to the "Contact" page and tick the "Sign up for email updates" check box when entering their contact information.
+        1. The user can easily navigate to the "Contact" page and tick the "Sign up for email updates" check box when entering their contact information.
 
 ### Further Testing
 
