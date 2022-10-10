@@ -65,6 +65,8 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
     - W3 Schools was used as a HTML and CSS reference
 2. [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainwebappdevelopment)
     - The "Love Running" project was used as the basis of the Pampered Pooches website
+3. [Replit](https://replit.com/)
+    - Replit was used to initially code the website alongside the "Love Running" project
 3. [Pexels](https://www.pexels.com/search/dog%20grooming/)
     - Images for the website were downloaded from Pexels
 4. [Paint]
