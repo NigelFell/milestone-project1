@@ -150,13 +150,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want to check to see pictures of my dog being groomed in the gallery.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The user can easily navigate to the "Gallery" page and see the pictures and their review of the dog grooming service.
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to check to see if there are any new social media posts.
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
+        1. The user can access the organisations social media sites from the footer on every page.
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
         1. At the bottom of every page their is a footer which content is consistent throughout all pages.
