@@ -26,9 +26,10 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
         3. As a Returning Visitor, I want to find community links.
 
     -   #### Frequent User Goals
+
         1. As a Frequent User, I want to check to see pictures of my dog being groomed in the gallery.
         2. As a Frequent User, I want to check to see if there are any new social media posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        3. As a Frequent User, I want to sign up to get email updates so that I am emailed about any changes to the dog grooming service.
 
 -   ### Design
     -   #### Colour Scheme
@@ -146,6 +147,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. Here they can fill out the form on the page and leave a review of the service in a textarea input box labelled "Comments/Feedback".
 
     3. As a Returning Visitor, I want to find community links.
+
         1. The footer on every page contains links to the organisations social media sites. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
 -   #### Frequent User Goals
@@ -158,10 +160,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The user can access the organisations social media sites from the footer on every page.
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+    3. As a Frequent User, I want to sign up to get email updates so that I am emailed about any changes to the dog grooming service.
+
+        1. The user navigate to the "Contact" page and tick the "Sign up for email updates" check box when entering their contact information.
 
 ### Further Testing
 
