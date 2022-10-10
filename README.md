@@ -166,16 +166,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Opera browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 6 and various Window phones.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On the Internet Explorer browser, the hero image animation resizes the whole image and navigation links are not shown in the correct font.
 
 ## Deployment
 
@@ -186,10 +183,11 @@ The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+3. Scroll down the Settings page until you locate the "Pages" Section on the left hand side of the screen.
+4. Under "Source", click the dropdown and select "Deploy from a branch".
+5. Under "Branch", click the first dropdown and select "main", "/ (root)" on the next dropdown, then "Save".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back to the top of the page to locate the now published site next to "Your site is live at".
 
 ### Forking the GitHub Repository
 
