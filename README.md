@@ -39,7 +39,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
     -   #### Imagery
         -   Imagery is important. The background images are designed to be striking and catch the user's attention.
     
-    [View a screenshot of the visual design elements](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/user-experience-design.jpg)
+    -   [View a screenshot of the visual design elements](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/user-experience-design.jpg)
 
 *   ### Wireframes
 
@@ -105,10 +105,11 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
     The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--    [W3C Markup Validator](https://validator.w3.org/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/html-validation-results.pdf)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [Results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/css-validation-results.jpg)
+-    [W3C Markup Validator](https://validator.w3.org/) - [View results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/html-validation-results.pdf)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - [View results](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/css-validation-results.jpg)
 
 ### Responsiveness
+
 -   Google Chrome's Dev Tools were initially used to test the responsiveness of the site with the Device Toolbar.
 
     - [View mobile example](https://github.com/NigelFell/milestone-project1/blob/main/assets/docs/chrome-dev-tools-devices-iphone5.jpg)
