@@ -134,7 +134,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
         1. The site has been designed to be easy to use, fluid and not entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. The current page is indicated by an underline on the appropriate link.
         2. At the bottom of each page in the footer section there is a link to the home page so that the user always has somewhere to go and doesn't feel trapped when they get to the bottom of the page.
         3. On the "Contact" page, after a form response is submitted successfully a new window is opened showing the data entered. This will allow the user can easily get back to the website.
-        4. The input boxes on the "Contact" page are checked for valid entries where required and the user prompted if there is a problem.
+        4. The required input boxes on the "Contact" page are marked with an "*". Once the "Contact Us" button is clicked the user input is checked for valid entries where required and the user prompted if there is a problem. The input box and submit button colours change on hover-over to highlight they have been selected.
         5. Checking and verifying a postcode is within the mobile service area has been left to a future release of the site.
     
     3. As a First Time Visitor, I want to be able to view the area covered by the mobile service in a clear presentation.
@@ -144,7 +144,7 @@ This is the marketing website for Pampered Pooches Mobile Dog Grooming. It is de
 
     4. As a First Time Visitor, I want to be able to telephone the site owners business directly or enter my contact information to initiate communication with the website owner.
 
-        1. The user can easily navigate to the "Contact" page and telephone or enter their contact information and click the Contact Us submit button.
+        1. The user can easily navigate to the "Contact" page and telephone or enter their contact information and click the "Contact Us" submit button.
         2. On successful submission a page will open in a new window to show their details have been submitted. This will allow the user can easily get back to the website.
 
     5. As a First Time Visitor, I want to look at a gallery of photos/testimonials to understand what their customers think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
